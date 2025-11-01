@@ -1,5 +1,30 @@
 # Awesome Google VRP Writeups
-🐛 A list of writeups from the Google VRP Bug Bounty program
+🐛 A list of writeups from the Google VRP Bug Bounty program﻿2025-09-18T17:47:15.7837150Z Current runner version: '2.328.0'
+Runner Image Provisioner
+Hosted Compute Agent
+Version: 20250829.383
+Commit: 27cb235aab5b0e52e153a26cd86b4742e89dac5d
+Build Date: 2025-08-29T13:48:48Z
+Operating System
+Ubuntu
+24.04.3
+LTS
+Runner Image
+Image: ubuntu-24.04
+Version: 20250907.24.1
+Included Software: https://github.com/actions/runner-images/blob/ubuntu24/20250907.24/images/ubuntu/Ubuntu2404-Readme.md
+Image Release: https://github.com/actions/runner-images/releases/tag/ubuntu24%2F20250907.24
+GITHUB_TOKEN Permissions
+Contents: read
+Metadata: read
+Secret source: Actions
+Prepare workflow directory
+Prepare all required actions
+Getting action download info
+Download action repository 'actions/checkout@v5' (SHA:08c6903cd8c0fde910a37f88322edcfb5dd907a8)
+Download action repository 'dtolnay/rust-toolchain@stable' (SHA:5d458579430fc14a04a08a1e7d3694f545e91ce6)
+Download action repository 'dtolnay/install-buck2@latest' (SHA:368a7b8fc43c61acd5223a3269853e0666a6c846)
+Complete job name: Buck2 on Linux
 
 *\*writeups: **not just** writeups*
 
